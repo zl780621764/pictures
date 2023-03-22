@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T06:40:16.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="WuzEcP3JIAJR1KKTziwF" version="21.0.8" type="github"><diagram name="第 1 页" id="Op8R2oM6BCyMY8g5LivD">3Zhtr5owFMc/zXl5F2kB25dUcXdLzE2uyZbszdJJBTK0rNaHez/9WiigczduyXAGTbT8z+nj75wWADxZH98rXmZzmYgC0Cg5Ap4CQgSPzK8VXmrBD1EtpCpPasnrhEX+Kpzo6qW7PBHbM0ctZaHz8lxcys1GLPWZxpWSh3O3lSzOey15Ki6ExZIXl+rnPNGZmxYad/qjyNOs6dkLaW1Z88bZzWSb8UQeTiQcA54oKXVdWh8norBr16xLXW/2hrUdmBIb/ScVvuLMl+UuIcXrl2defhPHp+2Da2XPi52bMKCwMO2xlTTNmlHrF7cU4Y+dbAwP2wpUZBw8vzSsWWc3pdT+f3iGeAyUASMQB0ACYLhp3Iyybr92dQvUdoWU3G0SYQfuGfMhy7VYlHxprQcTZkbL9Lpw5q1W8ntLx3tHWm0iC6mqFvGo+rR97YXS4vjmSnotHxPXQq6FVi/GpanQIHUxjQJ3fegipPXJTqIjdBp3QZm2TXfcTMGh+wuMfo8YF9FQOSIf3RnHoD+O83yp5FBJ4tC/M5Lj/kh+5HsOMYFoBtG0KhAgo/8H0p/ar5vAiR6sAhrQfrZc7KELwM2dxRlf0hNf0mOmmoMzhMgDEtoCjYGFA6dL/Kt0g/CGdGl/dB/NXaAs7f4bxUCIJUwiiHybyGxmd2ezR9uMZsNm/uvh+9uM9m7IvHni6GXL/jQfNk08Cq5ncHBLmj0+2TwtjNVmMKUQRVUqY2ADP4FxeG/5ivojbPdgQoFRt0/TijKLbTn2gU2BYutj7p9Z5Wx+rVKd1vYwG3Ik+Oh6rv+jSDCX3QuSynbylgnHPwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-22T06:43:37.069Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HDIho2VUw0SWEZVgiTjr" version="21.0.8" type="github">
+  <diagram name="第 1 页" id="Op8R2oM6BCyMY8g5LivD">
+    <mxGraphModel dx="830" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_3h4opud8lzZRapbexOs-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;IR相关&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="120" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3h4opud8lzZRapbexOs-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ISA相关&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="242" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3h4opud8lzZRapbexOs-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Micro相关&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="364" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3h4opud8lzZRapbexOs-7" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Java语言&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;strokeColor=#0a0a0a;fontColor=#151313;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="120" y="312" width="62" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="_3h4opud8lzZRapbexOs-8" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;MR框架&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;strokeColor=#0a0a0a;fontColor=#151313;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="184" y="312" width="56" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="_3h4opud8lzZRapbexOs-9" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Hadoop守护进程&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;strokeColor=#0a0a0a;fontColor=#151313;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="242" y="312" width="61" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="_3h4opud8lzZRapbexOs-10" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;JVM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;strokeColor=#0a0a0a;fontColor=#151313;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="305" y="312" width="55" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="_3h4opud8lzZRapbexOs-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;OS 噪声&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;strokeColor=#0a0a0a;fontColor=#151313;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="362" y="312" width="61" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="_3h4opud8lzZRapbexOs-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;特定微体系结构&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;strokeColor=#0a0a0a;fontColor=#151313;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="425" y="312" width="61" height="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
